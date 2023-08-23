@@ -1,2 +1,2 @@
 # softwareeng
-This is the python game designed for assignment of software engineering
+This is the python game designed for the assignment of software engineering using Test Driven Development.
